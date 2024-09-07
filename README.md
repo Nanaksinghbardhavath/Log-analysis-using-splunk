@@ -28,7 +28,8 @@ https://www.splunk.com/
 3) Create an admin account for splunk dashboard.
 4) Create a strong username and a strong password.
 5) give the host ip and port .
-6) finish.
+6) click on finish.
+7) the logs from system get forword to splunk dashboard.
 
  
 ```
